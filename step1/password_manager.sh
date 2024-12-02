@@ -10,6 +10,6 @@ read -s -p "パスワードを入力してください：" password
 echo
 
 #入力情報を保存
-echo "$service:$username:$password" >> "PASSWORD_FILE"
+echo "$service:$username:$password" >> "$PASSWORD_FILE"
 
 echo "Thank you!"
