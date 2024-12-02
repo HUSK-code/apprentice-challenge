@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PAAWORD_FILE="$PWD/password_manager.txt"
+PASSWORD_FILE="$PWD/password_manager.txt"
 
 echo "パスワードマネージャーへようこそ！"
 
